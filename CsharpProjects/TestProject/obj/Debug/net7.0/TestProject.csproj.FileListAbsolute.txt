@@ -1,0 +1,14 @@
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\GitHub\Certificates\MS-C#\Microsoft-CSharp-Course\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
